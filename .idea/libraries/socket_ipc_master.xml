@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="socket-ipc-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/socket-ipc-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
